@@ -1,0 +1,161 @@
+body{
+    background-color: rgb(154, 152, 152);
+}
+#head{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#header{
+    border: 10px solid red;
+    border-radius: 10px;
+    text-transform: uppercase;
+    text-shadow: 4px 3px 1px purple;
+    width: 440px;
+    box-shadow: 10px 10px 5px purple;
+}
+h3{
+    color: red;
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+}
+#mid{
+   border: 8px solid rgb(3, 187, 3);
+   height: 850px;
+
+}
+#box1{
+    border: 8px solid red;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px  purple;
+    width: 250px;
+    height: 250px;
+    padding-top:20px ;
+    text-align: center;
+    text-shadow: 2px 1px 1px purple;
+    margin: 3px;
+    background-color: white;
+}
+#img{
+    border: 8px solid red;
+    width: 270px;
+    padding: 10px;
+    height: 250px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px  purple;
+    position: relative;
+    left: 1170px;
+    bottom: 290px;
+    
+}
+#b2{
+    border: 8px solid red;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px  purple;
+    width: 250px;
+    height: 250px;
+    text-shadow: 2px 1px 1px purple;
+    margin: 3px;
+    background-color: white;
+    font-size: 22px;
+    text-shadow: 2px 2px 2px purple;
+    text-align: start;
+    position: relative;
+    bottom: 60px;
+  
+}
+#h2{
+    margin-top: 4px;
+}
+#b3{
+    border: 8px solid red;
+    width: 220px;
+    height: 250px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px  purple;
+    position: relative;
+    left: 1205px;
+    bottom: 350px;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 1px 1px purple;
+    
+}
+#submit{
+    border: 2px;
+    background-color: orange;
+    border-radius: 15px;
+    font-style: italic;
+}
+img{
+    margin-top: 45px;
+}
+#sticky{
+    border: 8px solid red;
+    border-radius: 15px;
+    width: 800px;
+    height: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    background-color: greenyellow;
+    position: fixed;
+    bottom: 40px;
+    left: 400px;
+    
+
+
+
+}
+#gap{
+    margin-left: 50px;
+}
+#foot{
+    border: 10px solid purple;
+    border-radius: 10px;
+    width:650px;
+    background-color: green;
+    text-align: center;
+  margin-left: 500px;
+  margin-top: 30px;
+    
+}
+#fb{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+#fruits{
+    border: 1px solid paleturquoise;
+    background-color: rgb(252, 252, 63);
+    text-align: center;
+    width: 300px;
+    height: fit-content;
+    
+
+}
+.p{
+   text-transform: uppercase;
+}
+#fruit{
+    border: 1px solid paleturquoise;
+    background-color: rgb(252, 252, 63);
+    text-align: center;
+    width: 300px;
+    height: fit-content;
+}
+#end{
+    border: 1px solid paleturquoise;
+    background-color: rgb(252, 252, 63);
+    text-align: center; 
+    width: 650px;  
+    height: 250px;
+    margin-top: 20px;
+}
